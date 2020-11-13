@@ -1,1 +1,0 @@
-web('https://www.speedgoat.com/learn-support/reference-applications/building-real-time-driver-in-the-loop-simulators')
