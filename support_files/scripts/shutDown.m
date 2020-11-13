@@ -14,7 +14,7 @@ p = slproject.getCurrentProject;
 projectRoot = p.RootFolder;
 
 % Delete bin folder and all its contents
-myBinFolder = fullfile(projectRoot, 'support files\bin');
+myBinFolder = fullfile(projectRoot, 'support_files\bin');
 if isfolder(myBinFolder)
     try
         rmdir(myBinFolder, 's');

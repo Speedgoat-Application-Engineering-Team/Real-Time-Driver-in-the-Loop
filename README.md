@@ -27,6 +27,9 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v1.2.1 - Nov 2020**
+ - Replaced spaces in path with underscores (fixes build issues with certain localization settings)
+
 > **v1.2.0 - Sep 2020**
  - Disabled parallel model reference builds (fixes build issue with R2020a)
 
