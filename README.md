@@ -27,6 +27,9 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v2.0.1 - Nov 2020**
+ - Replaced spaces in path with underscores (fixes build issues with certain localization settings)
+
 > **v2.0.0 - Sep 2020**
  - Official release for MATLAB R2020a
 

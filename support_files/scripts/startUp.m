@@ -5,10 +5,10 @@
 % Use Simulink Project API to get the current project:
 p = slproject.getCurrentProject;
 projectRoot = p.RootFolder;
-parentfolder = fullfile(projectRoot,'\support files');
+parentfolder = fullfile(projectRoot,'\support_files');
 
 % Create bin folder if not exisiting yet
-myCacheFolder = fullfile(projectRoot, 'support files\bin');
+myCacheFolder = fullfile(projectRoot, 'support_files\bin');
 if ~isfolder(myCacheFolder)
     mkdir(parentfolder,'bin')
 end

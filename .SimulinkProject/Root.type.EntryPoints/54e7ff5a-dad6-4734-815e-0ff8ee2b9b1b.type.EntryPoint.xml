@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="Shutdown" Visible="0" Icon="" File="support files/scripts/shutDown.m" Name="Shutdown" />
+<Info Type="Shutdown" Visible="0" Icon="" File="support_files/scripts/shutDown.m" Name="Shutdown" />
