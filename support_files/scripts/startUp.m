@@ -17,7 +17,11 @@ end
 Simulink.fileGenControl('set', 'CacheFolder', myCacheFolder, ...
    'CodeGenFolder', myCacheFolder);
 
-load('RealTimeConfig')
+% load('RealTimeConfig')
+
+% set IP adresses:
+target_ip = '192.168.7.1';
+host_ip = '192.168.7.2';
 
 % Open reference application getting started doc file 
 edit('GettingStarted')

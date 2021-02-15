@@ -27,6 +27,9 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v3.0.2 - Feb 2021**
+ - Usability improvements closing several reported [issues](https://github.com/Speedgoat-Application-Engineering-Team/Real-Time-Driver-in-the-Loop/issues?q=is%3Aissue+is%3Aclosed)
+
 > **v3.0.1 - Nov 2020**
  - Replaced spaces in path with underscores (fixes build issues with certain localization settings)
 

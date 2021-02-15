@@ -9,6 +9,7 @@ try
     %available, and MATLAB may crash if unreal engine is closed manually
     open_system('DriverInLoopGamingEngine.slx')
     cd(projectRoot)
-catch
-    warning('Something went wrong. Please retry using manual steps.')
+catch errormsg
+    warning('Something went wrong. Please retry using manual steps (rebuild model).')
+    rethrow(errormsg);
 end
