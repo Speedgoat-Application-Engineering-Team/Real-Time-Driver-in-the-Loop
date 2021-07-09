@@ -27,6 +27,10 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v3.0.3 - Jul 2021**
+ - Removed pre-built real-time application (prevents deployment issues with different MATLAB update versions)
+ - Removed DSP System Toolbox dependency
+
 > **v3.0.2 - Feb 2021**
  - Usability improvements closing several reported [issues](https://github.com/Speedgoat-Application-Engineering-Team/Real-Time-Driver-in-the-Loop/issues?q=is%3Aissue+is%3Aclosed)
 
