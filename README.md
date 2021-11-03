@@ -27,6 +27,11 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v5.0.0 - Nov 2021**
+ - Official release for MATLAB R2021b
+ - Updated reference models
+ - Light controls added to Simulation 3D vehicle
+
 > **v4.0.0 - Apr 2021**
  - Official release for MATLAB R2021a
  - Reintroduced option to connect G29 steering wheel directly to the target machine

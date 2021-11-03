@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="Project uses the Mapped SI Engine block to implement a mapped spark-ignition (SI) engine model with power, air mass flow, fuel flow, exhaust temperature, efficiency, and emission performance lookup tables. Provides a SI controller model for the engine." />
