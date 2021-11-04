@@ -1,4 +1,4 @@
-﻿
+
 **About**
 
 The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse the driver into compelling photorealistic 3D visualization environments in combination with the real-time simulation and high-fidelity capture of the vehicle dynamics, the behaviors of the tire and road surface. A gaming pedal and a steering wheel hardware are used for the driver input.
@@ -62,5 +62,5 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 ----------
 
 
-**© 2007 – 2020 Speedgoat GmbH**
+**© 2007 – 2021 Speedgoat GmbH**
 
