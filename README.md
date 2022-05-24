@@ -27,6 +27,12 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 
 **Release notes**
 
+> **v5.0.2 - May 2022**
+ - Simulation mode for all referenced models set to 'Normal'
+
+> **v5.0.1 - Nov 2021**
+ - Updated description
+
 > **v5.0.0 - Nov 2021**
  - Official release for MATLAB R2021b
  - Updated reference models
@@ -62,5 +68,5 @@ The Speedgoat Real-Time Driver-in-the-Loop Simulator demonstrates how to immerse
 ----------
 
 
-**© 2007 – 2021 Speedgoat GmbH**
+**© 2007 – 2022 Speedgoat GmbH**
 

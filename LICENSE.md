@@ -1,6 +1,6 @@
 Files provided with this distribution refer to commercial products and services and related materials of Speedgoat and MathWorks. Speedgoat software and MathWorks programs are separately licensed under the Speedgoat and the MathWorks Software License Agreements. The files in this repository may also refer to third-party software licensed under separate terms provided by such third parties.
 The following license terms apply only to the files in this repository, including files in this folder and its subfolders, and do not apply to Speedgoat Software or MathWorks Programs. References to “software” and “code” in the following license terms refer to the files in this repository.
-Copyright (c) 2021, Speedgoat GmbH. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+Copyright (c) 2022, Speedgoat GmbH. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
